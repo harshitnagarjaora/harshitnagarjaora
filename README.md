@@ -3,7 +3,7 @@ I'm Harshit Nagar, an aspiring software engineer with a passion for building rob
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome)](https://harshitnagar.epizy.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-red?&logo=google-chrome)](https://harshitnagar.epizy.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshitnagar_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-nagar-036702255)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshitnagar_)
