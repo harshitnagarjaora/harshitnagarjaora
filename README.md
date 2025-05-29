@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Harshit Nagar
 
 🎓 Pre-final year Engineering Student 
+
 ---
 # 💫 About Me:
 I'm Harshit Nagar, an aspiring software engineer with a passion for building robust backend systems, exploring cybersecurity, and developing impactful digital solutions. I love to solve real-world problems through code.<br><br>🔭 Currently working on: `Mentor Connect` - A mentorship platform powered by Flask & real-time communication tools.<br>🌱 Learning: Full Stack Java.<br>💬 Ask me about: Backend Development, APIs, Cybersecurity, Python, Java, Flask, Spring Boot.<br>⚡ Fun fact: I enjoy mobile photography, video editing, and exploring the latest tech trends.
